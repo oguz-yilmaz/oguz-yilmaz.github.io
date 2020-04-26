@@ -6,4 +6,5 @@ permalink: /android/
 
 <p>This is the Android preview of the App!</p>
 <br>
-<img src="./android.gif" />
+<a href="https://oguz-yilmaz.github.io/android.gif">Android Preview</a>
+<a href="https://oguz-yilmaz.github.io/ios.gif">IOS Preview</a>
