@@ -4,4 +4,6 @@ title: Android Preview
 permalink: /android/
 ---
 
-This is the Android preview of App!
+<p>This is the Android preview of the App!</p>
+<br>
+<img src="./android.gif" />
